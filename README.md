@@ -13,5 +13,6 @@ Simon is a memory game where the player must repeat a sequence of colored button
 - Increasing difficulty levels as the player progresses.
 - Score tracking to measure the player's performance.
 
-
+## Play
+- https://micaeltargino.github.io/Simon-Game/
 
